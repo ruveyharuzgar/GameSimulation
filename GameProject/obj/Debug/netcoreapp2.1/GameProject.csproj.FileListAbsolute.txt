@@ -1,0 +1,16 @@
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\GameProject.deps.json
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\GameProject.runtimeconfig.json
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\GameProject.runtimeconfig.dev.json
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\GameProject.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\GameProject.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.csprojAssemblyReference.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.AssemblyInfo.cs
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.csproj.CopyComplete
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\GameProject\obj\Debug\netcoreapp2.1\GameProject.pdb

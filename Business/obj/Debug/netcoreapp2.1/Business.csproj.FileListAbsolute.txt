@@ -1,0 +1,12 @@
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.csproj.CopyComplete
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Business\obj\Debug\netcoreapp2.1\Business.pdb

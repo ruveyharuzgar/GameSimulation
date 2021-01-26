@@ -1,0 +1,9 @@
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Users\RuveyhaRuzgar\source\repos\GameProject\Entities\obj\Debug\netcoreapp2.1\Entities.pdb

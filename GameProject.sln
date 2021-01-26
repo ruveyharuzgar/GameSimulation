@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{37411EE2-9F11-4032-A5F9-618055E15707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{C32465E0-AC8D-4BD6-B081-70C4A8E34B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{35BFA5C3-2607-401F-ABEF-D81C0AC20F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37411EE2-9F11-4032-A5F9-618055E15707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37411EE2-9F11-4032-A5F9-618055E15707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37411EE2-9F11-4032-A5F9-618055E15707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37411EE2-9F11-4032-A5F9-618055E15707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32465E0-AC8D-4BD6-B081-70C4A8E34B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32465E0-AC8D-4BD6-B081-70C4A8E34B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32465E0-AC8D-4BD6-B081-70C4A8E34B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32465E0-AC8D-4BD6-B081-70C4A8E34B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BFA5C3-2607-401F-ABEF-D81C0AC20F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BFA5C3-2607-401F-ABEF-D81C0AC20F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BFA5C3-2607-401F-ABEF-D81C0AC20F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BFA5C3-2607-401F-ABEF-D81C0AC20F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1FE02F-3A20-40F7-A1B6-9A1232AB5E28}
+	EndGlobalSection
+EndGlobal
